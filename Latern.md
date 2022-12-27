@@ -6,14 +6,27 @@
     
 </ol>
 
-- 
+- Peppermint:
+<ol>
+    <li>面积是一个4英里的driving trail 大约11.6acre 约等于5个足球场</li>
+    <li>形式是车道两旁的草坪那种</li>
+
+</ol>
 # 公司
 
 # 灯会
 ## 主题
 ### 路线
+- Zilker Park：
 <ol>
-    <li>Austin trail of Light: 沿着公园本身trail的单一环形路线；偶有岔路通往草坪上不同的主题区域。</li>
+    <li>Austin trail of Light: 沿着公园本身trail的单一环形路线。</li>
+    <li>偶有岔路通往草坪上不同的主题区域。</li>
+</ol>
+
+- Peppermint：
+<ol>
+    <li>一条长赛道。</li>
+    <li>入口和出口是下降和上升桥洞。</li>
 </ol>
 
 ### 内容
@@ -28,7 +41,18 @@
             <li>HEB books 纪念品（sponsor； HEB是austin本地的超市）</li>
         </ul>
     </li>
+    <li>Peppermint：
+        <ul>
+            <li>迪士尼故事</li>
+            <li>糖果通道（休息站，小吃，饮料）</li>
+            <li>圣诞主题（圣诞礼品店，动物，圣诞老人）</li>
+            <li>宗教神话（陶瓷雕塑，神话动物）</li>
+            <li>简易游乐场</li>
+            <li>HEB books 纪念品（sponsor； HEB是austin本地的超市）</li>
+        </ul>
+    </li>
 </ol>
+
 
 ## 灯组
 ### 构架
@@ -43,6 +67,12 @@
 </ol>
 
 ### 互动
+- Zilker Park：
 <ol>
     <li>Austin trail of Light: 游乐园。</li>
+</ol>
+
+- Peppermint：
+<ol>
+    <li>cosplay 挥手</li>
 </ol>
