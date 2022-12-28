@@ -1,25 +1,34 @@
+# 票价时长
+- Zilker Park: 25 一个人；85 一个人（带小吃和停车） [附近有local停车场]
+- Peppermint: 65 一辆车； 95 一辆车
+- PayPal Park(CA): 平均45一个人； [走路8分钟，online25刀，现场，35刀，附近有mall可以停车]
+Notice：都为期1个月。
+
 # 场地
 - Zilker Park: 
 <ol>
-    <li>面积：27 acres -- 0.111 平方公里 --- 10个足球场多
-    <li>形式：大部分草坪；外圈有trail；
-    
+    <li>面积：27 acres -- 0.111 平方公里 
+    <li>形式：大部分草坪；外圈有trail
 </ol>
 
 - Peppermint:
 <ol>
-    <li>面积是一个4英里的driving trail 大约11.6acre 约等于5个足球场</li>
+    <li>面积是一个4英里的driving trail 大约11.6acre</li>
     <li>形式是车道两旁的草坪那种</li>
 </ol>
 
-# 公司
+- PayPal Park(CA):
+<ol>
+    <li>面积：65 acres -- 0.263 平方公里 
+    <li>形式：一个football playground；
+</ol>
 
 # 灯会
 ## 主题
 ### 路线
 - Zilker Park：
 <ol>
-    <li>Austin trail of Light: 沿着公园本身trail的单一环形路线。</li>
+    <li>沿着公园本身trail的单一环形路线。</li>
     <li>偶有岔路通往草坪上不同的主题区域。</li>
 </ol>
 
@@ -27,6 +36,11 @@
 <ol>
     <li>一条长赛道。</li>
     <li>入口和出口是下降和上升桥洞。</li>
+</ol>
+
+- Paypal Park：[不如自贡,Oakland-zoo灯会]
+<ol>
+    <li>迷宫</li>
 </ol>
 
 ### 内容
@@ -50,6 +64,15 @@
             <li>plaza(少量灯，主要是service)</li>
         </ul>
     </li>
+    <li>Paypal Park:
+        <ul>
+            <li>圣诞小屋</li>
+            <li>动物</li>
+            <li>植物</li>
+            <li>迷宫</li>
+            <li>滑冰</li>
+        </ul>
+    </li>
 </ol>
 
 
@@ -71,6 +94,14 @@
             <li>主题-内容：plaza：粗糙的灯</li>
         </ul>
     </li>
+    <li>Paypal Park: 
+        <ul>
+            <li>主题-内容+路线，迷宫：沉浸式</li>
+            <li>主题-内容：动物：麋鹿灯</li>
+            <li>主题-内容：植物：各种自制树</li>
+            <li>主题-内容：圣诞小屋：自制小house</li>
+        </ul>
+    </li>
 </ol>
 
 ### 互动
@@ -85,4 +116,10 @@
     <li>plaza 照相</li>
     <li>plaza 小吃</li>
     <li>plaza 游乐园</li>
+</ol>
+
+- Paypal Park：
+<ol>
+    <li>迷宫</li>
+    <li>溜冰</li>
 </ol>
